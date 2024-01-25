@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/compiler/1.1.1/96ab955a10609f6c3d91b872628ccf44c567a22a/compiler-1.1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.20/1ce9e25c74aade0aa039cce459f2906a8c8ffc8e/kotlin-stdlib-1.2.20.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.6/cf7212b0f8bfef12657b942df8f4f2cf032d3f41/auto-common-0.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.8.0/e858dc62ef484048540d27d36f3ec2177a3fa9b1/javapoet-1.8.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar" />
+        </processorPath>
+        <module name="Submission_PT_Satunol_Mikro_Sistem_Pangondion.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>
